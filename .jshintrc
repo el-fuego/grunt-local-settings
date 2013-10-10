@@ -1,0 +1,12 @@
+{
+    "curly":   true,
+    "eqnull":  true,
+    "eqeqeq":  true,
+    "undef":   true,
+    "globals": {
+        "require": true,
+        "process": true,
+        "module":  true,
+        "exports": true
+    }
+}
