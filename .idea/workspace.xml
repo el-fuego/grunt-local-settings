@@ -2,31 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6197e9d6-d811-4e4d-9f90-a29cae8f016b" name="Default" comment="first commit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/grunt-concat-properties.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/AppTest/gruntConfig.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/AppTest/gruntConfig.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/AppTest/gruntConfig.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/AppTest/gruntConfig.yaml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tasks/local_settings.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/expected/test.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="grunt-concat-properties.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="6197e9d6-d811-4e4d-9f90-a29cae8f016b" time="1381420054014" ignored="false" />
+    <file path="/Dummy.txt" changelist="6197e9d6-d811-4e4d-9f90-a29cae8f016b" time="1381420134397" ignored="false" />
     <file path="/init.js" changelist="6197e9d6-d811-4e4d-9f90-a29cae8f016b" time="1380545448392" ignored="false" />
     <file path="/someProperties.js" changelist="6197e9d6-d811-4e4d-9f90-a29cae8f016b" time="1380558091307" ignored="false" />
     <file path="/propertiesAtFolder.js" changelist="6197e9d6-d811-4e4d-9f90-a29cae8f016b" time="1380553252482" ignored="false" />
@@ -40,7 +21,7 @@
     <file path="/Gruntfile.js" changelist="6197e9d6-d811-4e4d-9f90-a29cae8f016b" time="1380557429796" ignored="false" />
     <file path="/.jshintrc" changelist="6197e9d6-d811-4e4d-9f90-a29cae8f016b" time="1380557701574" ignored="false" />
     <file path="/concat_properties.js" changelist="6197e9d6-d811-4e4d-9f90-a29cae8f016b" time="1380552402947" ignored="false" />
-    <file path="/README.md" changelist="6197e9d6-d811-4e4d-9f90-a29cae8f016b" time="1380548614906" ignored="false" />
+    <file path="/README.md" changelist="6197e9d6-d811-4e4d-9f90-a29cae8f016b" time="1381420353146" ignored="false" />
     <file path="/reader.js" changelist="6197e9d6-d811-4e4d-9f90-a29cae8f016b" time="1380618375866" ignored="false" />
     <file path="/writer.js" changelist="6197e9d6-d811-4e4d-9f90-a29cae8f016b" time="1380550482067" ignored="false" />
     <file path="/patterns.js" changelist="6197e9d6-d811-4e4d-9f90-a29cae8f016b" time="1380553161248" ignored="false" />
@@ -113,7 +94,16 @@
       <file leaf-file-name="Gruntfile.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gruntfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="56" selection-start="719" selection-end="725" vertical-scroll-proportion="0.0">
+            <state line="30" column="67" selection-start="703" selection-end="736" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="3" selection-start="232" selection-end="232" vertical-scroll-proportion="0.3398058">
               <folding />
             </state>
           </provider>
@@ -128,10 +118,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="local_settings.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="local_settings.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tasks/local_settings.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="18" selection-start="210" selection-end="210" vertical-scroll-proportion="0.15048544">
+            <state line="8" column="18" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -166,7 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/tasks/lib/writer.js" />
         <option value="$PROJECT_DIR$/test/App/View/init.js" />
         <option value="$PROJECT_DIR$/test/App/View/inlineProperty.js" />
         <option value="$PROJECT_DIR$/test/App/View/prptotypeProperty.js" />
@@ -182,6 +171,7 @@
         <option value="$PROJECT_DIR$/.jshintrc" />
         <option value="$PROJECT_DIR$/test/test.js" />
         <option value="$PROJECT_DIR$/tasks/local_settings.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -279,16 +269,22 @@
       <created>1380533362265</created>
       <updated>1380533362265</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1381420110558</created>
+      <updated>1381420110558</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="25" width="1370" height="745" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25018615" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25018615" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -308,8 +304,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="myTodoPanelSettings">
       <value>
         <are-packages-shown value="false" />
@@ -365,13 +361,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="31" selection-start="919" selection-end="919" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tasks/local_settings.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="17" selection-start="965" selection-end="965" vertical-scroll-proportion="0.0">
@@ -430,20 +419,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="56" selection-start="719" selection-end="725" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="31" selection-start="919" selection-end="919" vertical-scroll-proportion="-14.125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/expected/test.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -474,10 +449,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tasks/local_settings.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="18" selection-start="210" selection-end="210" vertical-scroll-proportion="0.15048544">
+        <state line="8" column="18" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="31" selection-start="919" selection-end="919" vertical-scroll-proportion="-14.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="67" selection-start="703" selection-end="736" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="3" selection-start="232" selection-end="232" vertical-scroll-proportion="0.3398058">
+          <folding />
         </state>
       </provider>
     </entry>

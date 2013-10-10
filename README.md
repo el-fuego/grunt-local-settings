@@ -1,22 +1,15 @@
-# grunt-concat-properties
+# grunt-local-settings
 
 > Grunt plugin for loading and merge settings from grunt config file
 
-### Usage Examples
+### Usage Example
 
 ```js
-concatProperties: {
+localSettings: {
     js: {
-        indentation: '     ',
-        sourceProcessor: function () {} || null
-        initFiles: [
-            '**/init.js',
-            '!init.js'
-        ],
         src:  [
-            '{**/,}*.js',
-            '!{**/,}init.js'
-        ],
-        dest: 'build/properties.js'
+            'gruntConfig.{js,coffee,yaml,json}'
+        ]
     }
 };
+```
