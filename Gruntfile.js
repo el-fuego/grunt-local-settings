@@ -1,6 +1,6 @@
 /*
  * grunt-local-settings
- * https://github.com/denis/grunt-templates-concat
+ * https://github.com/denis/grunt-local-settings
  *
  * Copyright (c) 2013 Yuriy Pulyaev
  * Licensed under the MIT license.
